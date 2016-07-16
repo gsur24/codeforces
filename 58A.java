@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class hello {
+public class 58A {
    public static boolean word (String s) {
       char[] charArray = s.toCharArray();
 

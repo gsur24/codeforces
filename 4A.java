@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class watermelon {
+public class 4A {
 
    public static String divide (int weight) {
       if (weight % 2 == 0 && weight > 2) {

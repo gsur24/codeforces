@@ -1,5 +1,5 @@
 import java.util.*;
-public class words {
+public class 71A {
 
 	public static String tooLong(String s) {
 		if (s.length() > 10) {
